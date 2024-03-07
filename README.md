@@ -7,7 +7,6 @@
 - JavaScript
 - Bootstrap
 - jquery
-- 
 
 
 ## Реализовано:

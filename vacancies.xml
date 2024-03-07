@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <source creation-time="2022-08-30 03:00:09">
     <vacancies>
+
 <vacancy>
     <job-name><![CDATA[Шлифовщик]]></job-name>
     <description><![CDATA[.Предлагается стабильная и доходная работа на машиностроительном производстве.<br /> <strong><strong>Требования:</strong> </strong><br />
@@ -687,6 +688,7 @@
         <hr-agency>false</hr-agency>
     </company>
 </vacancy>
+
 <vacancy>
     <job-name><![CDATA[Бармен]]></job-name>
     <description><![CDATA[<strong>Требования:</strong><br />
@@ -812,6 +814,7 @@
         <hr-agency>false</hr-agency>
     </company>
 </vacancy>
+
 <vacancy>
     <job-name><![CDATA[Официант]]></job-name>
     <description><![CDATA[<strong><strong>Требования:</strong></strong><br />

@@ -70,6 +70,5 @@ export function parseXML(xmlString) {
       }
     });
   }
-  // console.log(vacancies);
   return vacancies;
 }
